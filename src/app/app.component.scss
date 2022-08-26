@@ -1,0 +1,17 @@
+.center {
+    text-align: center;
+    margin-top: 2em;
+}
+
+.table {
+    padding-top: 2em;
+    margin: auto;
+    th,
+    td {
+        border: 1px solid black;
+    }
+}
+
+.cursor {
+    cursor: pointer;
+}
